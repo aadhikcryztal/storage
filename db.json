@@ -1,9 +1,58 @@
 {
   "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+    {
+      "id": 1,
+      "firstname": "cryztal",
+      "lastname": "aadhik",
+      "email": "cryztal@gmail.com",
+      "password": "123",
+      "mobile": "9585581254",
+      "member": "incubator"
+    },
+    {
+      "firstname": "siva",
+      "lastname": "kumar",
+      "email": "siva@gmail.com",
+      "password": "1234",
+      "Mobile": "9568512345",
+      "Member": "australia",
+      "id": 2
+    },
+    {
+      "firstname": "sivaranjith",
+      "lastname": "kumar",
+      "email": "sivaranjith@gmail.com",
+      "password": "123485",
+      "Mobile": "9568712345",
+      "Member": "usa",
+      "id": 3
+    },
+    {
+      "firstname": "karthik",
+      "lastname": "krishna",
+      "email": "karthik@gmail.com",
+      "password": "5256",
+      "Mobile": "8585635695",
+      "Member": "Investor",
+      "id": 4
+    },
+    {
+      "firstname": "ghakha",
+      "lastname": "hagjak",
+      "email": "kahkh@gmail.com",
+      "password": "12",
+      "Mobile": "8585854541",
+      "Member": "Enterpreneur",
+      "id": 5
+    },
+    {
+      "firstname": "kjnlknd",
+      "lastname": "kdnlnda",
+      "email": "w@gmail.com",
+      "password": "54655",
+      "Mobile": "8513385855",
+      "Member": "Enterpreneur",
+      "id": 6
+    }
+  ]
 }
